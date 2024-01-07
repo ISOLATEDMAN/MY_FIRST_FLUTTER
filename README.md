@@ -1,10 +1,11 @@
-# simple_cal
+# simple_calculator
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Hey i started my journey in flutter and completed my first project Simple Calculator learned a lot of about flutter and i am loving it.....
 
 A few resources to get you started if this is your first Flutter project:
 
